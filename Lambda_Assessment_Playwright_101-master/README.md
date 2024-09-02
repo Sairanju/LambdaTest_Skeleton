@@ -3,7 +3,7 @@
 #Steps:
 1. Clone the Assignment-PW101 repository on your system.
         
-        git clone https://github.com/priteshmd/Assignment_PW101.git
+        git clone https://github.com/Sairanju/LambdaTest_Skeleton.git
 2. Navigate to Assignment-PW101
 
         cd Assignment-PW101
